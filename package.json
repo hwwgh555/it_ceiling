@@ -1,0 +1,23 @@
+{
+  "name": "it_ceiling",
+  "version": "0.0.1",
+  "description": "basic code abilities for higher level",
+  "main": "LinkNode.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "type": "module",
+  "keywords": [
+    "basic",
+    "abilities",
+    "for",
+    "higher-level",
+    "programming"
+  ],
+  "author": "450557862@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.9",
+    "jest": "^29.7.0"
+  }
+}
