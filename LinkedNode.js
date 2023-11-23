@@ -124,7 +124,7 @@ function LinkedList(element) {
     while(cur) {
       index++;
       if (cur.element === element) {
-        console.log('target::', element)
+        // console.log('target::', element)
         return index;
       }
       cur = cur.next;
